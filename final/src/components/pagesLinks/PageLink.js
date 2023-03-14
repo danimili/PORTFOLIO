@@ -7,4 +7,5 @@ const PageLink = ({ link, itemClass }) => {
     </li>
   )
 }
+
 export default PageLink

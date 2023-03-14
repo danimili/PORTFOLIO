@@ -7,4 +7,5 @@ const SocialLink = ({ itemClass, href, icon }) => {
     </li>
   )
 }
+
 export default SocialLink

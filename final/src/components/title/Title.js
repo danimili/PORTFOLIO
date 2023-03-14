@@ -7,4 +7,5 @@ const Title = ({ title, subTitle }) => {
     </div>
   );
 };
+
 export default Title;

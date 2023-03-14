@@ -13,4 +13,5 @@ const Main = () => {
     </section>
   )
 }
+
 export default Main

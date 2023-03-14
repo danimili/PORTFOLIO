@@ -18,4 +18,5 @@ const Project = ({ image, title, info, link }) => {
     </article>
   )
 }
+
 export default Project
