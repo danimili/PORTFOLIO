@@ -5,12 +5,12 @@ const Project = ({ image, title, info, link }) => {
   }
 
   return (
-    <article className='service-card' onClick={handleClick}>
-      <div className='service-img-container'>
-        <img src={image} className='service-img' alt={title}/>
+    <article className='project-card' onClick={handleClick}>
+      <div className='project-img-container'>
+        <img src={image} className='project-img' alt={title}/>
       </div>
-      <div className='service-info'>
-        <div className='service-title'>
+      <div className='project-info'>
+        <div className='project-title'>
           <h4>{title}</h4>
         </div>
         <p>{info}</p>
